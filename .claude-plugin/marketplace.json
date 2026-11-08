@@ -1,0 +1,17 @@
+﻿{
+  "name": "fs-skills",
+  "description": "Portable engineering skills for Claude Code.",
+  "owner": {
+    "name": "filip-stepien"
+  },
+  "plugins": [
+    {
+      "name": "fs-skills",
+      "source": {
+        "source": "github",
+        "repo": "filip-stepien/fs-skills"
+      },
+      "description": "Portable engineering workflow and standards."
+    }
+  ]
+}

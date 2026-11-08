@@ -1,0 +1,10 @@
+﻿{
+  "name": "fs-skills",
+  "description": "Portable engineering workflow and standards for coding agents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "filip-stepien"
+  },
+  "repository": "https://github.com/filip-stepien/fs-skills",
+  "license": "MIT"
+}
